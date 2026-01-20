@@ -1,0 +1,11 @@
+header {
+    background-color: crimson;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    height: 8vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+
+}

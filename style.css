@@ -11,3 +11,12 @@ header {
     top: 0;
 
 }
+
+.hero{
+    height: 92vh;
+    background-color: rgb(118, 164, 164);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
